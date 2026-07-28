@@ -1,0 +1,8 @@
+Name of Customer: anup 
+Address: Lalitpur
+Phone Number: 98923464223
+Date: 2025-05-14
+
+Lotion Qty: 3, FreeItem: 1, Price: 1950.0
+Hand wash Qty: 50, FreeItem: 16, Price: 4000.0
+
