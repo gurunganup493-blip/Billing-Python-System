@@ -1,0 +1,12 @@
+1,Lip Balm,50.0,Sancho,694,Nepal
+
+2,Facewash,180.0,Himalaya,629,India
+
+3,Lotion,650.0,Johnson Baby,689,USA
+
+4,Face Mask,510.0,Asarai,729,AUS
+
+5,Hair Oil,50.0,Clear,684,Sri Lanka
+
+6,Hand wash,80.0,Dettol,584,Bangladesh
+
